@@ -1,0 +1,60 @@
+*{
+    margin: 5px;
+    padding: 10px;
+}
+
+.midwidth{
+    max-width: 500px;
+    margin: auto;
+}
+.list-item{
+    text-align: center;
+}
+
+
+.li-heading {
+    border-bottom: 2px dashed #f60;
+    
+}
+
+    
+
+.li-heading h2 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #fe6703;
+}
+.li-heading h1 {
+    font-size: 30px;
+    color: #f60;
+}
+li:nth-child(2n) {
+    color: #f60;
+    font-size: 24px;
+    font-weight: 900;
+}
+li:nth-child(1n) {
+    
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.list-footer h3 {
+    font-size: 30px;
+    color: #f60;
+}
+
+.list-footer h1 {
+    font-size: 40px;
+    color: #f60;
+}
+
+.alllist:nth-child(n1){
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+
+
+
